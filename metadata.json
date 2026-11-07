@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Kejohanan Sukan & Olahraga AI",
+  "description": "Sistem pendaftaran atlit, penjanaan template Excel rumah sukan, cetakan borang hakim padang/balapan, dan pengimbas keputusan berasaskan AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
